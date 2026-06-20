@@ -1,0 +1,51 @@
+name: stock-alerts
+
+# Free scheduled runs on GitHub's servers - your computer can stay off.
+on:
+  schedule:
+    # Times are UTC. This fires Mon-Fri at 21:30 UTC (~after US market close).
+    # Adjust to your market. GitHub may delay scheduled runs by a few minutes.
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}        # lets you trigger a run manually from the Actions tab
+
+# Needed so the job can commit the de-dup state file back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: stock-alerts
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run alert scan
+        env:
+          EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
+          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python run_alerts.py
+
+      - name: Persist de-dup state
+        run: |
+          if [ -n "$(git status --porcelain alert_state.json)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add alert_state.json
+            git commit -m "Update alert state [skip ci]"
+            git push
+          else
+            echo "No state change to commit."
+          fi
