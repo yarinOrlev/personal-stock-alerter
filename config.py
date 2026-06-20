@@ -30,7 +30,7 @@ WATCHLIST = [
     "V",
     "CRM",
     "LLY",
-    "URNU",
+    "URNU.L",
 ]
 
 # ---- TIMEFRAME ----
