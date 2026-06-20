@@ -6,7 +6,12 @@ on:
     # Times are UTC. This fires Mon-Fri at 21:30 UTC (~after US market close).
     # Adjust to your market. GitHub may delay scheduled runs by a few minutes.
     - cron: "30 21 * * 1-5"
-  workflow_dispatch: {}        # lets you trigger a run manually from the Actions tab
+  workflow_dispatch:        # lets you trigger a run manually from the Actions tab
+    inputs:
+      test_email:
+        description: "Send a TEST email instead of scanning the watchlist"
+        type: boolean
+        default: false
 
 # Needed so the job can commit the de-dup state file back to the repo.
 permissions:
@@ -36,7 +41,12 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python run_alerts.py
+        run: |
+          if [ "${{ inputs.test_email }}" = "true" ]; then
+            python run_alerts.py --test-email
+          else
+            python run_alerts.py
+          fi
 
       - name: Persist de-dup state
         run: |

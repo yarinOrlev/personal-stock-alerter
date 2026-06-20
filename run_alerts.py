@@ -126,5 +126,24 @@ def main():
     print(f"Done. {alerts_sent} alert(s) sent.")
 
 
+def send_test_email():
+    """Force one sample alert so you can confirm email delivery works."""
+    stamp = dt.datetime.now().isoformat(timespec="seconds")
+    subject = "TEST: stock-alerts email is working"
+    body = (
+        "This is a TEST message from your stock-alerts system.\n\n"
+        "If you're reading this in your inbox, your email settings are correct "
+        "and real buy/sell alerts will arrive the same way.\n\n"
+        f"Sent at: {stamp}\n"
+        f"Watchlist size: {len(config.WATCHLIST)} tickers\n"
+        f"Interval: {config.INTERVAL}\n"
+        "(No market data was scanned for this test.)"
+    )
+    notify(subject, body)
+
+
 if __name__ == "__main__":
-    main()
+    if "--test-email" in sys.argv:
+        send_test_email()
+    else:
+        main()
