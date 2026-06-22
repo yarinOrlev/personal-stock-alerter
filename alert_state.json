@@ -1,1 +1,26 @@
-{}
+{
+  "AMZN": {
+    "date": "2026-06-18",
+    "signal": "STRONG_BUY"
+  },
+  "AVGO": {
+    "date": "2026-06-18",
+    "signal": "MODERATE_BUY"
+  },
+  "GOOGL": {
+    "date": "2026-06-18",
+    "signal": "MODERATE_BUY"
+  },
+  "URNU.L": {
+    "date": "2026-06-19",
+    "signal": "MODERATE_BUY"
+  },
+  "VOO": {
+    "date": "2026-06-18",
+    "signal": "MODERATE_BUY"
+  },
+  "VTV": {
+    "date": "2026-06-18",
+    "signal": "WARNING"
+  }
+}
