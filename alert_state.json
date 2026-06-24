@@ -1,6 +1,6 @@
 {
   "AMZN": {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
@@ -10,6 +10,14 @@
   "GOOGL": {
     "date": "2026-06-22",
     "signal": "STRONG_BUY"
+  },
+  "LLY": {
+    "date": "2026-06-23",
+    "signal": "MODERATE_BUY"
+  },
+  "NVDA": {
+    "date": "2026-06-23",
+    "signal": "MODERATE_BUY"
   },
   "URNU.L": {
     "date": "2026-06-18",
