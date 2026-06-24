@@ -5,7 +5,7 @@ on:
   schedule:
     # Times are UTC. This fires Mon-Fri at 21:30 UTC (~after US market close).
     # Adjust to your market. GitHub may delay scheduled runs by a few minutes.
-    - cron: "30 21 * * 1-5"
+    - cron: "30 13,17,19 * * 1-5"
   workflow_dispatch:        # lets you trigger a run manually from the Actions tab
     inputs:
       test_email:
