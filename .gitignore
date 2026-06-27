@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+alert_state.json
+*_daily.csv
+*_trades.csv
+*.json.bak
+.DS_Store
