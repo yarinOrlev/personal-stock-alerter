@@ -1,6 +1,10 @@
 {
+  "AAPL": {
+    "date": "2026-06-26",
+    "signal": "STRONG_BUY"
+  },
   "AMZN": {
-    "date": "2026-06-23",
+    "date": "2026-06-26",
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
@@ -20,11 +24,11 @@
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "signal": "MODERATE_BUY"
   },
   "URNU.L": {
-    "date": "2026-06-18",
+    "date": "2026-06-26",
     "signal": "MODERATE_BUY"
   },
   "VOO": {
