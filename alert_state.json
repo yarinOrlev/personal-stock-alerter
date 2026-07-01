@@ -1,6 +1,6 @@
 {
   "AAPL": {
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
@@ -8,7 +8,7 @@
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
@@ -20,8 +20,8 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-06-29",
-    "signal": "MODERATE_BUY"
+    "date": "2026-06-30",
+    "signal": "STRONG_BUY"
   },
   "SOFI": {
     "date": "2026-06-26",
