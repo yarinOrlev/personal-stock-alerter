@@ -1,10 +1,14 @@
 {
   "AAPL": {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-06-26",
+    "date": "2026-07-01",
+    "signal": "MODERATE_BUY"
+  },
+  "ANET": {
+    "date": "2026-07-01",
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
@@ -20,15 +24,15 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-06-30",
-    "signal": "STRONG_BUY"
+    "date": "2026-07-01",
+    "signal": "MODERATE_BUY"
   },
   "SOFI": {
     "date": "2026-06-26",
     "signal": "MODERATE_BUY"
   },
   "URNU.L": {
-    "date": "2026-06-26",
+    "date": "2026-07-01",
     "signal": "MODERATE_BUY"
   },
   "VEA": {
