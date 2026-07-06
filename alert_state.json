@@ -12,12 +12,12 @@
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
-    "date": "2026-06-30",
+    "date": "2026-07-02",
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
-    "date": "2026-06-22",
-    "signal": "STRONG_BUY"
+    "date": "2026-07-02",
+    "signal": "MODERATE_BUY"
   },
   "LLY": {
     "date": "2026-06-23",
@@ -34,6 +34,10 @@
   "URNU.L": {
     "date": "2026-07-01",
     "signal": "MODERATE_BUY"
+  },
+  "V": {
+    "date": "2026-07-02",
+    "signal": "WARNING"
   },
   "VEA": {
     "date": "2026-06-29",
