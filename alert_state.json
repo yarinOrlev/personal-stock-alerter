@@ -16,7 +16,7 @@
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
-    "date": "2026-07-02",
+    "date": "2026-07-09",
     "signal": "MODERATE_BUY"
   },
   "LLY": {
@@ -24,7 +24,7 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
@@ -48,7 +48,7 @@
     "signal": "MODERATE_BUY"
   },
   "VTV": {
-    "date": "2026-06-29",
+    "date": "2026-07-09",
     "signal": "WARNING"
   }
 }
