@@ -23,6 +23,10 @@
     "date": "2026-07-21",
     "signal": "MODERATE_BUY"
   },
+  "MA": {
+    "date": "2026-07-27",
+    "signal": "WARNING"
+  },
   "META": {
     "date": "2026-07-17",
     "signal": "MODERATE_BUY"
@@ -44,7 +48,7 @@
     "signal": "WARNING"
   },
   "VEA": {
-    "date": "2026-07-23",
+    "date": "2026-07-27",
     "signal": "MODERATE_BUY"
   },
   "VOO": {
