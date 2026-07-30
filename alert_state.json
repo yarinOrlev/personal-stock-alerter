@@ -4,12 +4,12 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "signal": "MODERATE_BUY"
   },
   "ANET": {
-    "date": "2026-07-14",
-    "signal": "MODERATE_BUY"
+    "date": "2026-07-29",
+    "signal": "STRONG_BUY"
   },
   "AVGO": {
     "date": "2026-07-28",
@@ -32,7 +32,7 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-07-21",
+    "date": "2026-07-29",
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
@@ -52,8 +52,8 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-07-28",
-    "signal": "MODERATE_BUY"
+    "date": "2026-07-29",
+    "signal": "STRONG_BUY"
   },
   "VTV": {
     "date": "2026-07-09",
