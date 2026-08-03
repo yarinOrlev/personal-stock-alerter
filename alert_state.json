@@ -1,10 +1,10 @@
 {
   "AAPL": {
-    "date": "2026-07-01",
+    "date": "2026-07-31",
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "signal": "MODERATE_BUY"
   },
   "ANET": {
@@ -16,11 +16,11 @@
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
-    "date": "2026-07-27",
-    "signal": "MODERATE_BUY"
+    "date": "2026-07-31",
+    "signal": "STRONG_BUY"
   },
   "LLY": {
-    "date": "2026-07-21",
+    "date": "2026-07-31",
     "signal": "MODERATE_BUY"
   },
   "MA": {
@@ -32,7 +32,7 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "signal": "STRONG_BUY"
   },
   "SOFI": {
@@ -52,8 +52,8 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-07-30",
-    "signal": "STRONG_BUY"
+    "date": "2026-07-31",
+    "signal": "MODERATE_BUY"
   },
   "VTV": {
     "date": "2026-07-09",
