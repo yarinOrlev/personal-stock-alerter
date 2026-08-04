@@ -12,7 +12,7 @@
     "signal": "STRONG_BUY"
   },
   "AVGO": {
-    "date": "2026-07-30",
+    "date": "2026-08-03",
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
@@ -30,6 +30,10 @@
   "META": {
     "date": "2026-07-17",
     "signal": "MODERATE_BUY"
+  },
+  "MSFT": {
+    "date": "2026-08-03",
+    "signal": "WARNING"
   },
   "NVDA": {
     "date": "2026-07-31",
