@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "date": "2026-07-31",
-    "signal": "MODERATE_BUY"
+    "date": "2026-08-04",
+    "signal": "STRONG_BUY"
   },
   "AMZN": {
     "date": "2026-07-31",
@@ -32,16 +32,16 @@
     "signal": "MODERATE_BUY"
   },
   "MSFT": {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "signal": "WARNING"
   },
   "NVDA": {
-    "date": "2026-07-31",
-    "signal": "STRONG_BUY"
+    "date": "2026-08-04",
+    "signal": "MODERATE_BUY"
   },
   "SOFI": {
-    "date": "2026-07-14",
-    "signal": "STRONG_BUY"
+    "date": "2026-08-04",
+    "signal": "MODERATE_BUY"
   },
   "URNU.L": {
     "date": "2026-07-01",
