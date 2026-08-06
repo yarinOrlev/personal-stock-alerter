@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "date": "2026-08-04",
-    "signal": "STRONG_BUY"
+    "date": "2026-08-05",
+    "signal": "MODERATE_BUY"
   },
   "AMZN": {
     "date": "2026-07-31",
@@ -32,7 +32,7 @@
     "signal": "MODERATE_BUY"
   },
   "MSFT": {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "signal": "WARNING"
   },
   "NVDA": {
