@@ -1,6 +1,6 @@
 {
   "AAPL": {
-    "date": "2026-08-18",
+    "date": "2026-08-26",
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
@@ -12,7 +12,7 @@
     "signal": "STRONG_BUY"
   },
   "AVGO": {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "signal": "MODERATE_BUY"
   },
   "GOOGL": {
@@ -56,7 +56,7 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-07-31",
+    "date": "2026-08-26",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
