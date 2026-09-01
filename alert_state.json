@@ -12,11 +12,11 @@
     "signal": "STRONG_BUY"
   },
   "AVGO": {
-    "date": "2026-08-27",
+    "date": "2026-08-31",
     "signal": "STRONG_BUY"
   },
   "CRM": {
-    "date": "2026-08-27",
+    "date": "2026-08-31",
     "signal": "WARNING"
   },
   "GOOGL": {
@@ -40,11 +40,11 @@
     "signal": "WARNING"
   },
   "NVDA": {
-    "date": "2026-08-25",
+    "date": "2026-08-31",
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
-    "date": "2026-08-21",
+    "date": "2026-08-31",
     "signal": "MODERATE_BUY"
   },
   "URNU.L": {
@@ -60,11 +60,11 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-08-26",
+    "date": "2026-08-31",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
-    "date": "2026-07-09",
-    "signal": "WARNING"
+    "date": "2026-08-31",
+    "signal": "MODERATE_BUY"
   }
 }
