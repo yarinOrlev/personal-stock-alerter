@@ -4,7 +4,7 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-08-19",
+    "date": "2026-09-01",
     "signal": "MODERATE_BUY"
   },
   "ANET": {
@@ -16,15 +16,15 @@
     "signal": "STRONG_BUY"
   },
   "CRM": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "signal": "WARNING"
   },
   "GOOGL": {
-    "date": "2026-08-27",
+    "date": "2026-09-01",
     "signal": "MODERATE_BUY"
   },
   "LLY": {
-    "date": "2026-08-28",
+    "date": "2026-09-01",
     "signal": "MODERATE_BUY"
   },
   "MA": {
@@ -44,7 +44,7 @@
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "signal": "MODERATE_BUY"
   },
   "URNU.L": {
