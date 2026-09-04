@@ -8,12 +8,12 @@
     "signal": "MODERATE_BUY"
   },
   "ANET": {
-    "date": "2026-07-29",
-    "signal": "STRONG_BUY"
+    "date": "2026-09-03",
+    "signal": "MODERATE_BUY"
   },
   "AVGO": {
-    "date": "2026-08-31",
-    "signal": "STRONG_BUY"
+    "date": "2026-09-03",
+    "signal": "PREMIUM_BUY"
   },
   "CRM": {
     "date": "2026-09-01",
@@ -24,8 +24,8 @@
     "signal": "STRONG_BUY"
   },
   "LLY": {
-    "date": "2026-09-01",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-03",
+    "signal": "STRONG_BUY"
   },
   "MA": {
     "date": "2026-09-02",
