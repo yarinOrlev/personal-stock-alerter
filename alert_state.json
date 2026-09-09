@@ -4,7 +4,7 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-09-01",
+    "date": "2026-09-08",
     "signal": "MODERATE_BUY"
   },
   "ANET": {
@@ -20,7 +20,7 @@
     "signal": "WARNING"
   },
   "GOOGL": {
-    "date": "2026-09-02",
+    "date": "2026-09-08",
     "signal": "STRONG_BUY"
   },
   "LLY": {
@@ -36,8 +36,8 @@
     "signal": "MODERATE_BUY"
   },
   "MSFT": {
-    "date": "2026-08-06",
-    "signal": "WARNING"
+    "date": "2026-09-08",
+    "signal": "MODERATE_BUY"
   },
   "NVDA": {
     "date": "2026-08-31",
