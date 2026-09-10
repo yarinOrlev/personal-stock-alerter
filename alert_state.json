@@ -1,11 +1,11 @@
 {
   "AAPL": {
-    "date": "2026-08-26",
+    "date": "2026-09-09",
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-09-08",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-09",
+    "signal": "STRONG_BUY"
   },
   "ANET": {
     "date": "2026-09-03",
@@ -20,8 +20,8 @@
     "signal": "WARNING"
   },
   "GOOGL": {
-    "date": "2026-09-08",
-    "signal": "STRONG_BUY"
+    "date": "2026-09-09",
+    "signal": "PREMIUM_BUY"
   },
   "LLY": {
     "date": "2026-09-04",
@@ -44,7 +44,7 @@
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
-    "date": "2026-09-02",
+    "date": "2026-09-09",
     "signal": "MODERATE_BUY"
   },
   "URNU.L": {
