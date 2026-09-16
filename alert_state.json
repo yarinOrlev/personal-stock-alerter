@@ -28,7 +28,7 @@
     "signal": "MODERATE_BUY"
   },
   "MA": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "signal": "MODERATE_BUY"
   },
   "META": {
@@ -52,19 +52,19 @@
     "signal": "MODERATE_BUY"
   },
   "V": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "signal": "MODERATE_BUY"
   },
   "VEA": {
-    "date": "2026-07-28",
+    "date": "2026-09-15",
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-09-14",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-15",
+    "signal": "STRONG_BUY"
   },
   "VTV": {
-    "date": "2026-09-10",
+    "date": "2026-09-15",
     "signal": "MODERATE_BUY"
   }
 }
