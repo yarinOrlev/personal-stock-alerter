@@ -4,11 +4,11 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-09-14",
+    "date": "2026-09-16",
     "signal": "STRONG_BUY"
   },
   "ANET": {
-    "date": "2026-09-11",
+    "date": "2026-09-16",
     "signal": "MODERATE_BUY"
   },
   "AVGO": {
@@ -44,8 +44,8 @@
     "signal": "STRONG_BUY"
   },
   "SOFI": {
-    "date": "2026-09-10",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-16",
+    "signal": "STRONG_BUY"
   },
   "URNU.L": {
     "date": "2026-09-04",
@@ -56,15 +56,15 @@
     "signal": "MODERATE_BUY"
   },
   "VEA": {
-    "date": "2026-09-15",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-16",
+    "signal": "STRONG_BUY"
   },
   "VOO": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "signal": "STRONG_BUY"
   },
   "VTV": {
-    "date": "2026-09-15",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-16",
+    "signal": "STRONG_BUY"
   }
 }
