@@ -20,19 +20,19 @@
     "signal": "WARNING"
   },
   "GOOGL": {
-    "date": "2026-09-10",
-    "signal": "PREMIUM_BUY"
+    "date": "2026-09-23",
+    "signal": "MODERATE_BUY"
   },
   "LLY": {
     "date": "2026-09-21",
     "signal": "MODERATE_BUY"
   },
   "MA": {
-    "date": "2026-09-21",
-    "signal": "MODERATE_BUY"
+    "date": "2026-09-23",
+    "signal": "STRONG_BUY"
   },
   "META": {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "signal": "WARNING"
   },
   "MSFT": {
@@ -56,7 +56,7 @@
     "signal": "MODERATE_BUY"
   },
   "VEA": {
-    "date": "2026-09-21",
+    "date": "2026-09-23",
     "signal": "MODERATE_BUY"
   },
   "VOO": {
@@ -64,7 +64,7 @@
     "signal": "MODERATE_BUY"
   },
   "VTV": {
-    "date": "2026-09-21",
-    "signal": "STRONG_BUY"
+    "date": "2026-09-23",
+    "signal": "MODERATE_BUY"
   }
 }
