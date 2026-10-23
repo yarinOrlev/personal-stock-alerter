@@ -4,12 +4,12 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-10-14",
+    "date": "2026-10-22",
     "signal": "MODERATE_BUY"
   },
   "ANET": {
-    "date": "2026-10-20",
-    "signal": "MODERATE_BUY"
+    "date": "2026-10-22",
+    "signal": "STRONG_BUY"
   },
   "AVGO": {
     "date": "2026-09-24",
@@ -28,19 +28,19 @@
     "signal": "STRONG_BUY"
   },
   "MA": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "signal": "WARNING"
   },
   "META": {
-    "date": "2026-10-20",
-    "signal": "MODERATE_BUY"
+    "date": "2026-10-22",
+    "signal": "STRONG_BUY"
   },
   "MSFT": {
     "date": "2026-09-10",
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
@@ -52,15 +52,15 @@
     "signal": "MODERATE_BUY"
   },
   "V": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "signal": "WARNING"
   },
   "VEA": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-10-20",
+    "date": "2026-10-22",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
