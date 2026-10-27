@@ -40,7 +40,7 @@
     "signal": "MODERATE_BUY"
   },
   "NVDA": {
-    "date": "2026-10-22",
+    "date": "2026-10-26",
     "signal": "MODERATE_BUY"
   },
   "SOFI": {
@@ -56,11 +56,11 @@
     "signal": "WARNING"
   },
   "VEA": {
-    "date": "2026-10-23",
-    "signal": "MODERATE_BUY"
+    "date": "2026-10-26",
+    "signal": "STRONG_BUY"
   },
   "VOO": {
-    "date": "2026-10-22",
+    "date": "2026-10-26",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
