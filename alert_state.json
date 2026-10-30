@@ -4,8 +4,8 @@
     "signal": "MODERATE_BUY"
   },
   "AMZN": {
-    "date": "2026-10-27",
-    "signal": "MODERATE_BUY"
+    "date": "2026-10-29",
+    "signal": "STRONG_BUY"
   },
   "ANET": {
     "date": "2026-10-23",
@@ -32,7 +32,7 @@
     "signal": "WARNING"
   },
   "META": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "signal": "MODERATE_BUY"
   },
   "MSFT": {
@@ -60,7 +60,7 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
