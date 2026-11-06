@@ -28,7 +28,7 @@
     "signal": "WARNING"
   },
   "MA": {
-    "date": "2026-11-02",
+    "date": "2026-11-05",
     "signal": "WARNING"
   },
   "META": {
@@ -56,11 +56,11 @@
     "signal": "WARNING"
   },
   "VEA": {
-    "date": "2026-11-03",
-    "signal": "MODERATE_BUY"
+    "date": "2026-11-05",
+    "signal": "PREMIUM_BUY"
   },
   "VOO": {
-    "date": "2026-11-03",
+    "date": "2026-11-05",
     "signal": "STRONG_BUY"
   },
   "VTV": {
