@@ -16,8 +16,8 @@
     "signal": "MODERATE_BUY"
   },
   "CRM": {
-    "date": "2026-11-19",
-    "signal": "PREMIUM_BUY"
+    "date": "2026-11-24",
+    "signal": "MODERATE_BUY"
   },
   "GOOGL": {
     "date": "2026-10-21",
@@ -60,11 +60,11 @@
     "signal": "MODERATE_BUY"
   },
   "VOO": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "signal": "MODERATE_BUY"
   },
   "VTV": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "signal": "STRONG_BUY"
   }
 }
